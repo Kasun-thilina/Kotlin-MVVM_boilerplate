@@ -6,12 +6,7 @@ This is a very simple Boilerplate application, this has following features.
   - After signing in he can see a list of items
   
   #### I didn't add many functionality and didn't polish UI intentionally, tried to keep it barebone as much as possible 
-  
-  ### Same implementation in other platforms
-   - [iOS](https://github.com/simpleboilerplates/BooksDemoiOS) 
-   - [Flutter](https://github.com/SimpleBoilerplates/Flutter) 
-   - [React Native](https://github.com/SimpleBoilerplates/React-Native) 
-   - [NodeJS backend](https://github.com/simpleboilerplates/BooksDemoNode) 
+ 
  
 # With
 
